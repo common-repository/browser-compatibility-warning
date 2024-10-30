@@ -1,0 +1,36 @@
+#browser {
+	position: fixed;
+	bottom: 0;
+	height: 50px;
+	background: #ffff01;
+	color: #000;
+	width: 100%;
+	padding-top: 8px;
+	font-size: 16px;
+	font-family: arial
+}
+#innerbrowser {
+	width: 900px;
+	margin: auto;
+	position: relative;
+	padding-top: 5px
+}
+#innerbrowser img {
+	float: left;
+	padding-right: 10px;
+	padding-right: 20px;
+	margin-top: -5px
+}
+a#toggle {
+	position: absolute;
+	top: 1px;
+	right: 0;
+	font-weight: bold;
+	text-decoration: none;
+	background: #000;
+	color: #ffff01;
+	padding: 2px;
+	padding-bottom: 0;
+	padding-left: 3px;
+	padding-right: 3px
+}
